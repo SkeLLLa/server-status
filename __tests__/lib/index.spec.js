@@ -11,6 +11,5 @@ describe('server-status', () => {
     expect(stats.now).toBeInstanceOf(Date);
     expect(stats.uptime).toMatch(/\d+d \d{2}:\d{2}:\d{2}/);
     expect(typeof stats.uptimeSec).toBe('number');
-    console.log(stats);
   });
 });
