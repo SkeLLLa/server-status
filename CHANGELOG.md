@@ -1,3 +1,9 @@
+#### 1.1.1 (2018-09-20)
+
+##### Bug Fixes
+
+* **env:**  move env to runtime ([b8967ef3](https://github.com/SkeLLLa/server-status/commit/b8967ef3a9ece45410543dea09d3f48decdd01ef))
+
 #### 1.1.0 (2018-09-20)
 
 ##### New Features
