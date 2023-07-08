@@ -46,7 +46,7 @@
     "eslint": "^5.2.0",
     "eslint-config-google": "^0.9.1",
     "generate-changelog": "^1.7.1",
-    "jest": "^23.4.2"
+    "jest": "^29.6.1"
   },
   "dependencies": {
     "app-root-path": "^2.1.0"
